@@ -3,3 +3,12 @@
 mlruns/
 /mlartifacts/
 mlartifacts/
+
+# csv
+input_example.csv
+
+# saved models
+Logistic Regression_model.pkl
+Random Forest_model.pkl
+XGBClassifier With SMOTE_model.pkl
+XGBClassifier_model.pkl 
