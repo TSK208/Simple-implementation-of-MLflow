@@ -1,2 +1,5 @@
 # mlflow
 /mlruns/
+mlruns/
+/mlartifacts/
+mlartifacts/
